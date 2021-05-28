@@ -1,0 +1,32 @@
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект\InRemote\bin\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект\InRemote\bin\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект\InRemote\obj\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект\InRemote\obj\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект Remoting\InRemote\bin\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект Remoting\InRemote\bin\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект Remoting\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект Remoting\InRemote\obj\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП (Вафин)\Курсач\Мой курсач\Проект Remoting\InRemote\obj\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\bin\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\bin\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\obj\Debug\InRemote.dll
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\obj\Debug\InRemote.pdb
+D:\Chizhov\Univer\ТП Курсачи (Вафин)\5. Айгуль (Запись бьюти)\Проект Remoting\InRemote\obj\Debug\InRemote.csprojResolveAssemblyReference.cache
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\bin\Debug\InRemote.dll
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\bin\Debug\InRemote.pdb
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.dll
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.pdb
+D:\Chizhov\Univer\COMPLETE\Бакалавриат\3 КУРС\ТП (Вафин)\Курсач\Другие курсачи\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.csprojResolveAssemblyReference.cache
+C:\Users\79520\Desktop\курсачи\вафин курсовая\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\bin\Debug\InRemote.dll
+C:\Users\79520\Desktop\курсачи\вафин курсовая\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\bin\Debug\InRemote.pdb
+C:\Users\79520\Desktop\курсачи\вафин курсовая\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+C:\Users\79520\Desktop\курсачи\вафин курсовая\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.dll
+C:\Users\79520\Desktop\курсачи\вафин курсовая\9. Аня (Бронь столиков в клубе)\Проект Remoting\InRemote\obj\Debug\InRemote.pdb
+C:\Users\79520\Desktop\курсачи\вафин курсовая\Автосалон\Проект Remoting\InRemote\bin\Debug\InRemote.dll
+C:\Users\79520\Desktop\курсачи\вафин курсовая\Автосалон\Проект Remoting\InRemote\bin\Debug\InRemote.pdb
+C:\Users\79520\Desktop\курсачи\вафин курсовая\Автосалон\Проект Remoting\InRemote\obj\Debug\InRemote.csproj.CoreCompileInputs.cache
+C:\Users\79520\Desktop\курсачи\вафин курсовая\Автосалон\Проект Remoting\InRemote\obj\Debug\InRemote.dll
+C:\Users\79520\Desktop\курсачи\вафин курсовая\Автосалон\Проект Remoting\InRemote\obj\Debug\InRemote.pdb
